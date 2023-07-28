@@ -9,7 +9,7 @@ Module 1 Challenge
 
 ## How to View the Code
 
-1. Clone the Repository: git clone https://github.com/marcusperdue/Code-Refactor-Project
+1. Clone the Repository: ``` git clone https://github.com/marcusperdue/Code-Refactor-Project ```
 
 2. Open the Files.
 
@@ -25,6 +25,9 @@ Module 1 Challenge
 ## Deployment
 
 The refactored webpage has been deployed to GitHub Pages and is accessible online. You can view the live website by visiting the following URL: https://marcusperdue.github.io/Code-Refactor-Project/
+
+## Visual
+![Example Image](/assets/images/wepbage-screenshot.png)
 
 ## Credits
 
