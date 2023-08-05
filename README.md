@@ -9,7 +9,7 @@ Module 1 Challenge
 
 ## How to View the Code
 
-1. Clone the Repository: ``` git clone https://github.com/marcusperdue/Code-Refactor-Project ```
+1. Clone the Repository: ``` git clone git@github.com:marcusperdue/Code-Refactor-Project.git ```
 
 2. Open the Files.
 
